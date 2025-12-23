@@ -1,4 +1,3 @@
-//your JS code here. If required.
 window.onload = function () {
     const usernameInput = document.getElementById("username");
     const passwordInput = document.getElementById("password");
